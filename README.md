@@ -1,5 +1,7 @@
 # GithubOrgGeographics
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/76194b0da4824d0188b6c1b24a8009a0)](https://app.codacy.com/app/yashhanda7/GitHub-Org-Geographics?utm_source=github.com&utm_medium=referral&utm_content=Yash-Handa/GitHub-Org-Geographics&utm_campaign=Badge_Grade_Dashboard)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6.
 
 ## Development server
