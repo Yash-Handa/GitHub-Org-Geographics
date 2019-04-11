@@ -1,11 +1,14 @@
 # GithubOrgGeographics
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/76194b0da4824d0188b6c1b24a8009a0)](https://app.codacy.com/app/yashhanda7/GitHub-Org-Geographics?utm_source=github.com&utm_medium=referral&utm_content=Yash-Handa/GitHub-Org-Geographics&utm_campaign=Badge_Grade_Dashboard)
+[![Build Status](https://travis-ci.com/Yash-Handa/GitHub-Org-Geographics.svg?branch=master)](https://travis-ci.com/Yash-Handa/GitHub-Org-Geographics)
+[![Build status](https://ci.appveyor.com/api/projects/status/i08ct9ng43dvrhlq/branch/master?svg=true)](https://ci.appveyor.com/project/Yash-Handa/github-org-geographics/branch/master)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Yash-Handa/GitHub-Org-Geographics.svg?style=flat-square)
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/Yash-Handa/GitHub-Org-Geographics.svg?logo=lgtm&logoWidth=18&style=flat-square)](https://lgtm.com/projects/g/Yash-Handa/GitHub-Org-Geographics/alerts/)
 ![David](https://img.shields.io/david/Yash-Handa/GitHub-Org-Geographics.svg?style=flat-square)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/Yash-Handa/GitHub-Org-Geographics.svg?logo=lgtm&logoWidth=18&style=flat-square)](https://lgtm.com/projects/g/Yash-Handa/GitHub-Org-Geographics/context:javascript)
 [![Known Vulnerabilities](https://snyk.io/test/github/Yash-Handa/GitHub-Org-Geographics/badge.svg?style=flat-square)](https://snyk.io/test/github/Yash-Handa/GitHub-Org-Geographics)
+![licence](https://img.shields.io/github/license/Yash-Handa/GitHub-Org-Geographics.svg?style=flat-square)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6.
 
