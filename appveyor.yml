@@ -12,8 +12,6 @@ environment:
   # Token has no scope (read-only access to public information)
   # TSD_GITHUB_TOKEN: "9b18c72997769f3867ef2ec470e626d39661795d"
 
-build: "off"
-
 clone_depth: 10
 
 # Fix line endings on Windows
@@ -25,6 +23,14 @@ install:
   - npm install -g npm
   - ps: $env:path = $env:appdata + "\npm;" + $env:path
   - npm install
+
+build: "off"
+
+build_script:
+  # Output useful info for debugging.
+  - node --version && npm --version
+  - ps: "npm --version # PowerShell" # Pass comment to PS for easier debugging
+  - npm run build
 
 test_script:
   # Output useful info for debugging.
