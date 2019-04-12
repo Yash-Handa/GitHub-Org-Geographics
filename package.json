@@ -20,6 +20,7 @@
     "@angular/common": "~7.2.0",
     "@angular/compiler": "~7.2.0",
     "@angular/core": "~7.2.0",
+    "@angular/fire": "^5.1.2",
     "@angular/forms": "~7.2.0",
     "@angular/http": "~7.2.0",
     "@angular/platform-browser": "~7.2.0",
@@ -32,6 +33,7 @@
     "@nguniversal/module-map-ngfactory-loader": "0.0.0",
     "core-js": "^2.5.4",
     "express": "^4.15.2",
+    "firebase": "^5.9.4",
     "rxjs": "~6.3.3",
     "tslib": "^1.9.0",
     "zone.js": "~0.8.26"
@@ -44,6 +46,7 @@
     "@types/jasmine": "~2.8.8",
     "@types/jasminewd2": "~2.0.3",
     "@types/node": "~8.9.4",
+    "bufferutil": "^4.0.1",
     "codelyzer": "~4.5.0",
     "http-server": "^0.11.1",
     "jasmine-core": "~2.99.1",
@@ -58,6 +61,9 @@
     "ts-node": "~7.0.0",
     "tslint": "~5.11.0",
     "typescript": "~3.2.2",
-    "webpack-cli": "^3.1.0"
+    "utf-8-validate": "^5.0.2",
+    "webpack-cli": "^3.1.0",
+    "ws": "^6.2.1",
+    "xhr2": "^0.1.4"
   }
 }
