@@ -1,0 +1,12 @@
+<div *ngIf="user | async as user; else showLogin">
+  <h1>Hello {{ user.displayName }}!</h1>
+  <button (click)="logout()">Logout</button>
+  <button (click)="credential()">Access Token</button>
+  <button (click)="clear()">Clear Display</button>
+  <br>
+  <div [innerText]="tokenDisplay"></div>
+</div>
+<ng-template #showLogin>
+  <p>Please login.</p>
+  <button (click)="login()">Login with GitHub</button>
+</ng-template>
